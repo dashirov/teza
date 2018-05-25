@@ -171,3 +171,7 @@ fabric.properties
 pyvenv.cfg
 pip-selfcheck.json
 
+.idea/misc.xml
+.idea/modules.xml
+.idea/other.xml
+.idea/teza.iml
